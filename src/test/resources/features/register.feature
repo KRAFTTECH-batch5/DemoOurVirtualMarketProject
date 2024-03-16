@@ -1,2 +1,1 @@
 Feature: Register Functionality
-  Scenario:
