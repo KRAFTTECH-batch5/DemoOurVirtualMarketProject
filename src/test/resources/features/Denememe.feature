@@ -14,3 +14,6 @@ Feature: This feature allows us to try gt
   denedik de ne oldu
 
   ne güzel oldu
+
+  sahdgajsk
+  sadasd
