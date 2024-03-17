@@ -12,3 +12,5 @@ Feature: This feature allows us to try gt
   dfsfds
 
   denedik de ne oldu
+
+  ne güzel oldu
