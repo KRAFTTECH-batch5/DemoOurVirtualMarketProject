@@ -99,6 +99,7 @@ public class RegisterPage extends BasePage {
             privacyPolicy=true;
             privacyCheckBox.click();
         }
+        continueBtn.click();
         //email field variations
         if (!(email.contains("@"))) {
             emailValue = email;
@@ -110,7 +111,6 @@ public class RegisterPage extends BasePage {
             emailValue=email;
             errorMessage=emailInbox.getAttribute("validationMessage");
         }
-        continueBtn.click();
     }
 
     /**

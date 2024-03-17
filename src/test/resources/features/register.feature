@@ -30,8 +30,8 @@ Feature: Register Functionality
       | lee                                     | roy                                     | lee@roy.com | 5551112233123456789123456798123456789123456789 | 1234asdf                                     | 1234asdf                                     | false   |
       | lee                                     | roy                                     | lee@roy.com | 5551112233                                     | 1234asdf123456789123456798123456789123456789 | 1234asdf123456789123456798123456789123456789 | false   |
       | lee                                     | roy                                     | lee@roy.com | 5551112233                                     | 123                                          | 123                                          | false   |
-      | lee                                     | roy                                     | leeroy      | 5551112233                                     | 1234asdf                                     | 1234asdf                                     | true    |
+      | lee                                     | roy                                     | leeroy      | 5551112233                                     | 1234asdf                                     | 1234asdf                                     | true       |
       | lee                                     | roy                                     | @leeroy     | 5551112233                                     | 1234asdf                                     | 1234asdf                                     | true    |
-      | lee                                     | roy                                     | @leeroy     | 5551112233                                     | 1234asdf                                     | 1234asdf                                     | true    |
+      | lee                                     | roy                                     | leeroy@     | 5551112233                                     | 1234asdf                                     | 1234asdf                                     | true    |
 
 
